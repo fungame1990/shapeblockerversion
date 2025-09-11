@@ -56,7 +56,9 @@
 <p>Your information may be transferred and maintained on servers outside Your country or jurisdiction. By using the Game, You agree to this transfer. We take steps to ensure Your data is handled securely and in accordance with this Policy.</p>
 
 <h3>Delete Your Data</h3>
-<p>You have the right to request deletion of data that We have collected. Please note that some information may be retained if required for legal obligations or legitimate business purposes.</p>
+<p>ShapeBlocker does not collect personal information such as names, emails, or accounts. However, some usage data (such as crash reports, gameplay statistics, and ad interactions) may be collected through third-party services like Google, Apple, Unity Ads, or AdMob.</p>
+<p>If you wish to delete or limit such data, you can do so through your device settings (e.g., resetting your advertising ID, disabling personalized ads) or by contacting the relevant service provider. You may also contact us at <strong>nooberiumco@gmail.com</strong> and we will assist you where possible.</p>
+
 
 <h3>Disclosure of Data</h3>
 <ul>
